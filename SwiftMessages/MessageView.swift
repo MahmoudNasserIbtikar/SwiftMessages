@@ -10,6 +10,7 @@ import UIKit
 
 /*
  */
+@objc(ABCMessageView)
 open class MessageView: BaseView, Identifiable, AccessibleMessage {
     
     /*
